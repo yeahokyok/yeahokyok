@@ -2,7 +2,7 @@
 
 ## 15 January 2023
 
-🍎🍎🍎🍎 🍎 \
+🍎🍎🍎🍎 🍎🍎 \
 Re-study Understanding and Optimizing Gas Costs 25. Storage Overview
 
 Read:
