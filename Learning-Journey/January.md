@@ -2,7 +2,7 @@
 
 ## 15 January 2023
 
-Pomodoros: 🍎🍎🍎🍎 🍎🍎🍎🍎
+Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅
 
 Read:
 
