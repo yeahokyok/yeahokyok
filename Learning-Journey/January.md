@@ -2,7 +2,7 @@
 
 ## 15 January 2023
 
-Pomodoros: 🍎🍎🍎🍎 🍎🍎 \
+Pomodoros: 🍎🍎🍎🍎 🍎🍎🍎
 
 Read:
 
@@ -10,7 +10,10 @@ Read:
 
 -   [Security Pitfalls & Best Practices 101](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101)
 
-Re-study the lecture on Understanding and Optimizing Gas Costs, lecture 25, Storage Overview.
+Re-study the lecture on Understanding and Optimizing Gas Costs
+
+-   Lecture 25, Storage Overview
+-   Lecture 26, More on 5000 gas non-zero to non-zero
 
 Practice gas optimization assignments with Gas Puzzles:
 
