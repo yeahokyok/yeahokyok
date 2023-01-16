@@ -10,7 +10,7 @@ Read:
 
 -   [Security Pitfalls & Best Practices 101](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101)
 
-Re-study the lecture on Understanding and Optimizing Gas Costs
+Re-study the lecture on [Understanding and Optimizing Gas Costs](https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs)
 
 -   Lecture 25, Storage Overview
 -   Lecture 26, More on 5000 gas non-zero to non-zero
@@ -25,8 +25,14 @@ Practice gas optimization assignments with Gas Puzzles:
 
 ## 16 January 2023
 
-Pomodoros: 🍅
+Pomodoros: 🍅🍅🍅
 
 Practice gas optimization assignments with Gas Puzzles:
 
 -   Optimized [Vote](https://github.com/yeahokyok/gas-puzzles/blob/main/contracts/contracts_optimized/OptimizedVote.sol) 138807 to 136499 in gas usage.
+
+-   I attempted to optimize the [Mint150](https://github.com/yeahokyok/gas-puzzles/blob/main/contracts/Mint150.sol) contract but was unsuccessful.
+
+Study [Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly)
+
+-   Lecture 7, Memory Operations
