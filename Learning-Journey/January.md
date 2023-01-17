@@ -47,3 +47,5 @@ Study [Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-
 -   Lecture 8, How Solidity Uses Memory
 -   Lecture 9, Dangers of Memory Misuse
 -   Lecture 10, Return, Require, Tuples and Keccak256
+
+Wacthed [EVM: From Solidity to byte code, memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
