@@ -36,3 +36,14 @@ Practice gas optimization assignments with Gas Puzzles:
 Study [Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly)
 
 -   Lecture 7, Memory Operations
+
+## 18 January 2023
+
+Pomodoros: 🍅🍅🍅
+
+Study [Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly)
+
+-   Lecture 7, Memory Operations
+-   Lecture 8, How Solidity Uses Memory
+-   Lecture 9, Dangers of Memory Misuse
+-   Lecture 10, Return, Require, Tuples and Keccak256
