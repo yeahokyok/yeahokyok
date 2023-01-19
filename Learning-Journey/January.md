@@ -57,3 +57,11 @@ Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅 🍅🍅🍅
 Continue wacthing [EVM: From Solidity to byte code, memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
 
 Learning about NFT Standards: ERC721
+
+## 20 January 2023
+
+Pomodoros: 🍅🍅🍅🍅 🍅
+
+Wacthed 
+- [EVM: From Solidity to byte code, memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
+- [Smart Contract Security / Solidity Security & how to change the bytecode of a deployed contract](https://youtu.be/QfFjUMPtsM0)
