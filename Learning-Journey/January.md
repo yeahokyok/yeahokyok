@@ -73,3 +73,10 @@ Pomodoros: 🍅🍅
 Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
 - [WETH](https://www.smartcontract.engineer/challenges/solidity-weth)
 - [Bypass Contract Size](https://www.smartcontract.engineer/challenges/solidity-bypass-contract-size)
+
+## 22 January 2023
+
+Pomodoros: 🍅🍅
+
+Wacthed 
+- [Smart Contract Security / Solidity Security & how to change the bytecode of a deployed contract](https://youtu.be/QfFjUMPtsM0)
