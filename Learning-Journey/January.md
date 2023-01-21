@@ -70,5 +70,6 @@ Wacthed
 
 Pomodoros: 
 
-Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges)
+Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
 - [WETH](https://www.smartcontract.engineer/challenges/solidity-weth)
+- [Bypass Contract Size](https://www.smartcontract.engineer/challenges/solidity-bypass-contract-size)
