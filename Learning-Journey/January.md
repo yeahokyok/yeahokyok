@@ -68,7 +68,7 @@ Wacthed
 
 ## 21 January 2023
 
-Pomodoros: 
+Pomodoros: 🍅🍅
 
 Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
 - [WETH](https://www.smartcontract.engineer/challenges/solidity-weth)
