@@ -85,7 +85,7 @@ Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/c
 - [Function Selector](https://www.smartcontract.engineer/challenges/solidity-function-selector)
 - [Create2](https://www.smartcontract.engineer/challenges/solidity-create2)
 - [Signature Replay Attack](https://www.smartcontract.engineer/challenges/solidity-signature-replay-attack)
-- [Multi Delegatecall](https://www.smartcontract.engineer/challenges/solidity-multi-delegatecall)()
+- [Multi Delegatecall](https://www.smartcontract.engineer/challenges/solidity-multi-delegatecall)
 - [Function Selector Clash](https://www.smartcontract.engineer/challenges/solidity-function-selector-clash)
 
 
