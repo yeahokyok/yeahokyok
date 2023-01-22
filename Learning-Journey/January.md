@@ -76,7 +76,7 @@ Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/c
 
 ## 22 January 2023
 
-Pomodoros: 🍅🍅
+Pomodoros: 🍅🍅🍅🍅
 
 Wacthed 
 - [Smart Contract Security / Solidity Security & how to change the bytecode of a deployed contract](https://youtu.be/QfFjUMPtsM0)
