@@ -80,3 +80,9 @@ Pomodoros: 🍅🍅
 
 Wacthed 
 - [Smart Contract Security / Solidity Security & how to change the bytecode of a deployed contract](https://youtu.be/QfFjUMPtsM0)
+
+Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
+- [Function Selector](https://www.smartcontract.engineer/challenges/solidity-function-selector)
+- [Create2](https://www.smartcontract.engineer/challenges/solidity-create2)
+
+
