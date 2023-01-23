@@ -88,4 +88,11 @@ Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/c
 - [Multi Delegatecall](https://www.smartcontract.engineer/challenges/solidity-multi-delegatecall)
 - [Function Selector Clash](https://www.smartcontract.engineer/challenges/solidity-function-selector-clash)
 
+## 24 January 2023
+
+Pomodoros: 🍅🍅
+
+Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
+- [Time Lock](https://www.smartcontract.engineer/challenges/solidity-time-lock)
+
 
