@@ -90,10 +90,12 @@ Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/c
 
 ## 24 January 2023
 
-Pomodoros: 🍅🍅
+Pomodoros: 🍅🍅🍅
 
 Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
 - [Time Lock](https://www.smartcontract.engineer/challenges/solidity-time-lock)
 - [Vault](https://www.smartcontract.engineer/challenges/solidity-vault)
+- [Unchecked Math](https://www.smartcontract.engineer/challenges/solidity-unchecked-math)
+- [Simple Bytecode Contract](https://www.smartcontract.engineer/challenges/solidity-simple-bytecode-contract)
 
 
