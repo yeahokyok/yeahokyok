@@ -94,5 +94,6 @@ Pomodoros: 🍅🍅
 
 Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
 - [Time Lock](https://www.smartcontract.engineer/challenges/solidity-time-lock)
+- [Vault](https://www.smartcontract.engineer/challenges/solidity-vault)
 
 
