@@ -1,5 +1,10 @@
 # January
 
+## 29 January 2023
+
+Pomodoros: 🍅🍅🍅🍅
+
+
 ## 24 January 2023
 
 Pomodoros: 🍅🍅🍅
@@ -49,7 +54,7 @@ Wacthed
 
 Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅 🍅🍅🍅
 
-Continue wacthing [EVM: From Solidity to byte code, memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
+Continued wacthing [EVM: From Solidity to byte code, memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
 
 Learning about NFT Standards: ERC721
 
@@ -57,26 +62,25 @@ Learning about NFT Standards: ERC721
 
 Pomodoros: 🍅🍅🍅
 
-Study [Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly)
+Studied [Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly)
 
 -   Lecture 7, Memory Operations
 -   Lecture 8, How Solidity Uses Memory
 -   Lecture 9, Dangers of Memory Misuse
 -   Lecture 10, Return, Require, Tuples and Keccak256
 
-Wacthing [EVM: From Solidity to byte code, memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
+Watched [EVM: From Solidity to byte code, memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
 
 ## 16 January 2023
 
 Pomodoros: 🍅🍅🍅
 
-Practice gas optimization assignments with Gas Puzzles:
+Practiced gas optimization assignments with Gas Puzzles:
 
 -   Optimized [Vote](https://github.com/yeahokyok/gas-puzzles/blob/main/contracts/contracts_optimized/OptimizedVote.sol) 138807 to 136499 in gas usage.
+-   Attempted to optimize the [Mint150](https://github.com/yeahokyok/gas-puzzles/blob/main/contracts/Mint150.sol) contract but was unsuccessful.
 
--   I attempted to optimize the [Mint150](https://github.com/yeahokyok/gas-puzzles/blob/main/contracts/Mint150.sol) contract but was unsuccessful.
-
-Study [Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly)
+Studied [Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly)
 
 -   Lecture 7, Memory Operations
 
@@ -87,15 +91,14 @@ Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅
 Read:
 
 -   [Forget about "optimizing"](https://mirror.xyz/vicnaum.eth/4CQa5X41_kCSUJD5YVb0G0B1VGD7cqbOZYjuGfzaUC4)
-
 -   [Security Pitfalls & Best Practices 101](https://secureum.substack.com/p/security-pitfalls-and-best-practices-101)
 
-Re-study the lecture on [Understanding and Optimizing Gas Costs](https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs)
+Re-studied the lecture on [Understanding and Optimizing Gas Costs](https://www.udemy.com/course/advanced-solidity-understanding-and-optimizing-gas-costs)
 
 -   Lecture 25, Storage Overview
 -   Lecture 26, More on 5000 gas non-zero to non-zero
 
-Practice gas optimization assignments with Gas Puzzles:
+Practiced gas optimization assignments with Gas Puzzles:
 
 -   Optimized [ArraySum](https://github.com/yeahokyok/gas-puzzles/blob/main/contracts/contracts_optimized/OptimizedArraySum.sol) 23399 to 23396 in gas usage.
 
