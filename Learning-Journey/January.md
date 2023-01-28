@@ -1,5 +1,85 @@
 # January
 
+## 24 January 2023
+
+Pomodoros: 🍅🍅🍅
+
+Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
+
+-   [Time Lock](https://www.smartcontract.engineer/challenges/solidity-time-lock)
+-   [Vault](https://www.smartcontract.engineer/challenges/solidity-vault)
+-   [Unchecked Math](https://www.smartcontract.engineer/challenges/solidity-unchecked-math)
+-   [Simple Bytecode Contract](https://www.smartcontract.engineer/challenges/solidity-simple-bytecode-contract)
+
+## 22 January 2023
+
+Pomodoros: 🍅🍅🍅🍅 🍅🍅
+
+Wacthed
+
+-   [Smart Contract Security / Solidity Security & how to change the bytecode of a deployed contract](https://youtu.be/QfFjUMPtsM0)
+
+Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
+
+-   [Function Selector](https://www.smartcontract.engineer/challenges/solidity-function-selector)
+-   [Create2](https://www.smartcontract.engineer/challenges/solidity-create2)
+-   [Signature Replay Attack](https://www.smartcontract.engineer/challenges/solidity-signature-replay-attack)
+-   [Multi Delegatecall](https://www.smartcontract.engineer/challenges/solidity-multi-delegatecall)
+-   [Function Selector Clash](https://www.smartcontract.engineer/challenges/solidity-function-selector-clash)
+
+## 21 January 2023
+
+Pomodoros: 🍅🍅
+
+Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
+
+-   [WETH](https://www.smartcontract.engineer/challenges/solidity-weth)
+-   [Bypass Contract Size](https://www.smartcontract.engineer/challenges/solidity-bypass-contract-size)
+
+## 20 January 2023
+
+Pomodoros: 🍅🍅🍅🍅 🍅
+
+Wacthed
+
+-   [EVM: From Solidity to byte code, memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
+-   [Smart Contract Security / Solidity Security & how to change the bytecode of a deployed contract](https://youtu.be/QfFjUMPtsM0)
+
+## 19 January 2023
+
+Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅 🍅🍅🍅
+
+Continue wacthing [EVM: From Solidity to byte code, memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
+
+Learning about NFT Standards: ERC721
+
+## 18 January 2023
+
+Pomodoros: 🍅🍅🍅
+
+Study [Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly)
+
+-   Lecture 7, Memory Operations
+-   Lecture 8, How Solidity Uses Memory
+-   Lecture 9, Dangers of Memory Misuse
+-   Lecture 10, Return, Require, Tuples and Keccak256
+
+Wacthing [EVM: From Solidity to byte code, memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
+
+## 16 January 2023
+
+Pomodoros: 🍅🍅🍅
+
+Practice gas optimization assignments with Gas Puzzles:
+
+-   Optimized [Vote](https://github.com/yeahokyok/gas-puzzles/blob/main/contracts/contracts_optimized/OptimizedVote.sol) 138807 to 136499 in gas usage.
+
+-   I attempted to optimize the [Mint150](https://github.com/yeahokyok/gas-puzzles/blob/main/contracts/Mint150.sol) contract but was unsuccessful.
+
+Study [Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly)
+
+-   Lecture 7, Memory Operations
+
 ## 15 January 2023
 
 Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅
@@ -22,80 +102,3 @@ Practice gas optimization assignments with Gas Puzzles:
 -   Optimized [Require](https://github.com/yeahokyok/gas-puzzles/blob/main/contracts/contracts_optimized/OptimizedRequire.sol) 43392 to 26284 in gas usage.
 
 -   Optimized [Distribute](https://github.com/yeahokyok/gas-puzzles/blob/main/contracts/contracts_optimized/OptimizedDistribute.sol) 71953 to 57022 in gas usage.
-
-## 16 January 2023
-
-Pomodoros: 🍅🍅🍅
-
-Practice gas optimization assignments with Gas Puzzles:
-
--   Optimized [Vote](https://github.com/yeahokyok/gas-puzzles/blob/main/contracts/contracts_optimized/OptimizedVote.sol) 138807 to 136499 in gas usage.
-
--   I attempted to optimize the [Mint150](https://github.com/yeahokyok/gas-puzzles/blob/main/contracts/Mint150.sol) contract but was unsuccessful.
-
-Study [Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly)
-
--   Lecture 7, Memory Operations
-
-## 18 January 2023
-
-Pomodoros: 🍅🍅🍅
-
-Study [Yul and Assembly](https://www.udemy.com/course/advanced-solidity-yul-and-assembly)
-
--   Lecture 7, Memory Operations
--   Lecture 8, How Solidity Uses Memory
--   Lecture 9, Dangers of Memory Misuse
--   Lecture 10, Return, Require, Tuples and Keccak256
-
-Wacthing [EVM: From Solidity to byte code, memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
-
-## 19 January 2023
-
-Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅 🍅🍅🍅
-
-Continue wacthing [EVM: From Solidity to byte code, memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
-
-Learning about NFT Standards: ERC721
-
-## 20 January 2023
-
-Pomodoros: 🍅🍅🍅🍅 🍅
-
-Wacthed 
-- [EVM: From Solidity to byte code, memory and storage](https://www.youtube.com/watch?v=RxL_1AfV7N4)
-- [Smart Contract Security / Solidity Security & how to change the bytecode of a deployed contract](https://youtu.be/QfFjUMPtsM0)
-
-## 21 January 2023
-
-Pomodoros: 🍅🍅
-
-Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
-- [WETH](https://www.smartcontract.engineer/challenges/solidity-weth)
-- [Bypass Contract Size](https://www.smartcontract.engineer/challenges/solidity-bypass-contract-size)
-
-## 22 January 2023
-
-Pomodoros: 🍅🍅🍅🍅 🍅🍅
-
-Wacthed 
-- [Smart Contract Security / Solidity Security & how to change the bytecode of a deployed contract](https://youtu.be/QfFjUMPtsM0)
-
-Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
-- [Function Selector](https://www.smartcontract.engineer/challenges/solidity-function-selector)
-- [Create2](https://www.smartcontract.engineer/challenges/solidity-create2)
-- [Signature Replay Attack](https://www.smartcontract.engineer/challenges/solidity-signature-replay-attack)
-- [Multi Delegatecall](https://www.smartcontract.engineer/challenges/solidity-multi-delegatecall)
-- [Function Selector Clash](https://www.smartcontract.engineer/challenges/solidity-function-selector-clash)
-
-## 24 January 2023
-
-Pomodoros: 🍅🍅🍅
-
-Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
-- [Time Lock](https://www.smartcontract.engineer/challenges/solidity-time-lock)
-- [Vault](https://www.smartcontract.engineer/challenges/solidity-vault)
-- [Unchecked Math](https://www.smartcontract.engineer/challenges/solidity-unchecked-math)
-- [Simple Bytecode Contract](https://www.smartcontract.engineer/challenges/solidity-simple-bytecode-contract)
-
-
