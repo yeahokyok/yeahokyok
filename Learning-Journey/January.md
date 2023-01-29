@@ -18,6 +18,7 @@ Wacthed:
 Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
 
 -   [Transparent Upgradeable Proxy](https://www.smartcontract.engineer/challenges/solidity-transparent-upgradeable-proxy)
+-   [Custom Error](https://www.smartcontract.engineer/challenges/solidity-custom-error)
 
 ## 24 January 2023
 
