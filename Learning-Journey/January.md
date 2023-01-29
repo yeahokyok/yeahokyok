@@ -2,7 +2,7 @@
 
 ## 29 January 2023
 
-Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅 🍅🍅
+Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅 🍅🍅🍅🍅
 
 Read: 
 - [DelegateCall: Calling Another Contract Function in Solidity](https://medium.com/coinmonks/delegatecall-calling-another-contract-function-in-solidity-b579f804178c)
@@ -15,6 +15,9 @@ Wacthed:
 - [Admin and User Interface - Transparent Upgradeable Proxy - Part 4 | Solidity 0.8](https://youtu.be/CLhPUrxwP7k)
 - [Proxy Admin - Transparent Upgradeable Proxy - Part 5 | Solidity 0.8](https://youtu.be/EUOERNErbyI)
 
+Solved [Smart Contract Engineer challenges](https://www.smartcontract.engineer/challenges):
+
+-   [Transparent Upgradeable Proxy]([https://www.smartcontract.engineer/challenges/solidity-time-lock](https://www.smartcontract.engineer/challenges/solidity-transparent-upgradeable-proxy))
 
 ## 24 January 2023
 
