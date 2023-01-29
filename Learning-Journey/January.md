@@ -2,7 +2,18 @@
 
 ## 29 January 2023
 
-Pomodoros: 🍅🍅🍅🍅
+Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅
+
+Read: 
+- [DelegateCall: Calling Another Contract Function in Solidity](https://medium.com/coinmonks/delegatecall-calling-another-contract-function-in-solidity-b579f804178c)
+- [yAcademy Proxies Research](https://proxies.yacademy.dev/)
+
+Wacthed:
+- [Wrong Way To Write an Upgradeable Proxy - Transparent Upgradeable Proxy - Part 1 | Solidity 0.8](https://youtu.be/xluCHy_HB-4)
+- [Return Data From Fallback - Transparent Upgradeable Proxy - Part 2 | Solidity 0.8](https://youtu.be/KGmV8-NdPgE)
+- [Write to Any Slot - Transparent Upgradeable Proxy - Part 3 | Solidity 0.8](https://youtu.be/RcyCW1nigog)
+- [Admin and User Interface - Transparent Upgradeable Proxy - Part 4 | Solidity 0.8](https://youtu.be/CLhPUrxwP7k)
+- [Proxy Admin - Transparent Upgradeable Proxy - Part 5 | Solidity 0.8](https://youtu.be/EUOERNErbyI)
 
 
 ## 24 January 2023
