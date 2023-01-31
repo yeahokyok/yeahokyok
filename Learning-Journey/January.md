@@ -1,5 +1,11 @@
 # January
 
+## 31 January 2023
+
+Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅 🍅🍅🍅🍅 🍅🍅
+
+Continued learning [Epic React Course](https://epicreact.dev/), [React Fundamentals](https://github.com/yeahokyok/epicreact-react-fundamentals)
+
 ## 30 January 2023
 
 Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅 🍅🍅🍅
