@@ -1,0 +1,21 @@
+# February
+
+## 1 February 2023
+
+Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅 🍅🍅🍅🍅
+
+Started [Alchemy's Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum)
+
+Learned on module **Blockchain Storage**
+
+-   UTXO & Account Models
+-   Tree Data Structures
+
+Read:
+
+-   [UTXO vs. Account-Based Chains](https://academy.glassnode.com/concepts/utxo)
+
+Watched:
+
+-   [Cryptoeconomics - 1.4 - UTXO Model](https://youtu.be/-xoCoZGJ9AQ)
+-   [UTXO vs Account model](https://youtu.be/HT6_j_ZyAms)
