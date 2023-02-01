@@ -10,6 +10,7 @@ Learned on module **Blockchain Storage**
 
 -   UTXO & Account Models
 -   Tree Data Structures
+    - Binary search tree
 
 Read:
 
