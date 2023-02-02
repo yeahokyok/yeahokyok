@@ -2,7 +2,7 @@
 
 ## 2 February 2023
 
-Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅 🍅🍅🍅🍅
+Pomodoros: 🍅🍅🍅🍅 🍅
 
 [Alchemy's Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum)
 - **Blockchain Storage**
