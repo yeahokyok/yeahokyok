@@ -11,7 +11,7 @@ A web developer with a background in telecommunications engineering. I live in I
 
 <!-- Projects -->
 <!-- Check out my latest public projects: -->
-
+---
 <h3 align="left">Blockchains</h3>
 <p align="left">
     <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />  </a>
@@ -20,21 +20,16 @@ A web developer with a background in telecommunications engineering. I live in I
 <h3 align="left">Languages</h3>
 <p align="left">
   <a href="https://docs.soliditylang.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="solidity"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src=" 	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src=" 	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
 </p>
 
 <h3 align="left">Frameworks & Libraries</h3>
 <p>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src=" 	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white" alt="python"/> </a>
-<a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=white" alt="python"/> </a>
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src=" 	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
+    <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=white"/></a>
+    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white"/></a>
 
-</p>
-
-<h3 align="left">Domain Knownledge</h3>
-<p align="left">
-    <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/> </a>
 </p>
 
 ---
