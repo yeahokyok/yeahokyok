@@ -6,7 +6,7 @@ I'm a self-taught web3 developer constantly learning and building on the blockch
 - 📘 [Epic React Course](https://epicreact.dev/) by Kent C. Dodds
 
 
-#### What i have  🚧 currently/🍻 done working on:
+#### What i have  🚧 currently | 🍻 done working on:
 - 🚧 [Smart Contract Engineer Challenges](https://www.smartcontract.engineer/challenges): 
     - Currently on the top 100 leaderboard
 - 🚧 [RareSkills Gas Puzzles](https://github.com/yeahokyok/gas-puzzles)
