@@ -1,53 +1,59 @@
 ### Hi there 👋
-
-<!-- Full-Stack Web3 developer -->
-<!-- who I am -->
-<!-- main foucus -->
-<!-- I’m currently learning  -->
-<!-- currently project -->
-
-A web developer with a background in telecommunications engineering. I live in Istanbul. I am currently working with antisocial lab as a frontend developer and smart contract integration.
-
-
-<!-- Projects -->
-<!-- Check out my latest public projects: -->
----
-<h3 align="left">Blockchains</h3>
-<p align="left">
-    <a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />  </a>
-</p>
-
-<h3 align="left">Languages</h3>
-<p align="left">
-  <a href="https://docs.soliditylang.org/en/latest/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" alt="solidity"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src=" 	https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript"/> </a>
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python"/> </a>
-</p>
-
-<h3 align="left">Frameworks & Libraries</h3>
-<p>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src=" 	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/></a>
-    <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=white"/></a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white"/></a>
-
-</p>
+I'm a self-taught web3 developer constantly learning and building on the blockchain. Let's create some decentralized magic together.🧙‍♂️
 
 ---
-<h3 align="left">📫 How to reach me:</h3>
-<p align="left">
-    <a href="https://line.me/ti/p/dHoEE7CDAP" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white"/> </a>
-    <a href="https://twitter.com/yeahokyok" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/yeahokyok.eth-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
-    
-</p>
-
-<!-- <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" /></a> -->
-
-<!--  	https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black -->
-<!--  	https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white -->
-<!--  	 -->
+#### What I'm currently learning:
+- 🧑‍💻 [Alchemy's Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum)
+- 📘 [Epic React Course](https://epicreact.dev/) by Kent C. Dodds
 
 
+#### What i have  🚧 currently/🍻 done working on:
+- 🚧 [Smart Contract Engineer Challenges](https://www.smartcontract.engineer/challenges): 
+    - Currently on the top 100 leaderboard
+- 🚧 [RareSkills Gas Puzzles](https://github.com/yeahokyok/gas-puzzles)
+    - Some contract require low level to optimize so I need to learn Yul first 🥲  
+- 🚧 [Ethernaut Challenges](https://github.com/yeahokyok/ethernaut-challenges) (23/28)
 
+---
+### Blockchains
 
+[![Ethereum][ethereum-shield]][ethereum]
 
+### Languages
+
+[![Solidity][solidity-shield]][solidity]
+[![JavaScript][javascript-shield]][javascript]
+[![Python][python-shield]][python]
+
+### Frameworks & Libraries
+
+[![React][react-shield]][react]
+[![Hardhat][hardhat-shield]][hardhat]
+[![Django][django-shield]][django]
+
+---
+### 📫 How to reach me:
+
+[![Line][line-shield]][line]
+[![Twitter][twitter-shield]][twitter]
+![yeahokyok.eth](https://img.shields.io/badge/yeahokyok.eth-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+
+[ethereum-shield]: https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white
+[ethereum]: https://ethereum.org/en/
+[solidity-shield]: https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black
+[solidity]: https://docs.soliditylang.org/en/latest/
+[javascript-shield]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+[javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[python-shield]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+[python]: https://www.python.org
+[react-shield]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+[react]: https://reactjs.org/
+[hardhat-shield]: https://img.shields.io/badge/Hardhat-FFF100?style=for-the-badge&logo=hardhat&logoColor=white
+[hardhat]: https://hardhat.org/
+[django-shield]: https://img.shields.io/badge/Django-092e20?style=for-the-badge&logo=django&logoColor=white
+[django]: https://www.djangoproject.com/
+[line-shield]: https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white
+[line]: https://line.me/ti/p/dHoEE7CDAP
+[twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
+[twitter]: https://twitter.com/yeahokyok
+[ethereum-address]:yeahokyok.eth
