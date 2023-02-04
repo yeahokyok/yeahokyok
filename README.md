@@ -5,6 +5,7 @@ I'm a self-taught web3 developer constantly learning and building on the blockch
 - 🧑‍💻 [Alchemy's Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum)
 - 📘 [Epic React Course](https://epicreact.dev/) by Kent C. Dodds
 
+[My Learning Journey](https://github.com/yeahokyok/yeahokyok/tree/main/Learning-Journey)
 
 #### What i have  🚧 currently | 🍻 done working on:
 - 🚧 [Smart Contract Engineer Challenges](https://www.smartcontract.engineer/challenges): 
