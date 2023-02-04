@@ -1,7 +1,6 @@
-### Hi there 👋
+#### Hi there 👋
 I'm a self-taught web3 developer constantly learning and building on the blockchain. Let's create some decentralized magic together.🧙‍♂️
 
----
 #### What I'm currently learning:
 - 🧑‍💻 [Alchemy's Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum)
 - 📘 [Epic React Course](https://epicreact.dev/) by Kent C. Dodds
