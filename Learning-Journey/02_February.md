@@ -1,4 +1,12 @@
 # February
+## 8 February 2023
+
+Pomodoros: 🍅🍅🍅🍅 🍅
+    
+[Alchemy's Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum)
+- **Blockchain Storage**
+    -   Tree Data Structures
+        - Patricia Merkle Tries
 
 ## 3 February 2023
 
