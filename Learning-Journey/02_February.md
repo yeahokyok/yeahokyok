@@ -1,4 +1,12 @@
 # February
+
+## 10 February 2023
+
+Pomodoros: 🍅🍅🍅🍅 🍅🍅
+
+Start doing [Alchemy's Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum) module 2 Blockchain Storage [**Merkle Tree Gift List Project**](https://github.com/yeahokyok/MerkleTreeGiftList) 
+
+
 ## 8 February 2023
 
 Pomodoros: 🍅🍅🍅🍅 🍅
