@@ -1,4 +1,9 @@
 # February
+## 14 February 2023
+Pomodoros: 🍅🍅🍅🍅 🍅🍅🍅🍅 🍅🍅
+
+Done with [Alchemy's Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum) module 3 Ethereum
+
 
 ## 10 February 2023
 
