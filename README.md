@@ -1,36 +1,36 @@
-#### Hi there 👋
+<!-- #### Hi there 👋
 I'm a self-taught web3 developer constantly learning and building on the blockchain. Let's create some decentralized magic together.🧙‍♂️
+--- -->
 
 #### What I'm currently learning:
-- 🧑‍💻 [Alchemy's Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum)
+- 📘 [Alchemy's Ethereum Developer Bootcamp](https://university.alchemy.com/ethereum)
 - 📘 [Epic React Course](https://epicreact.dev/) by Kent C. Dodds
 
-[My Learning Journey](https://github.com/yeahokyok/yeahokyok/tree/main/Learning-Journey)
+#### What i have currently working on:
 
-#### What i have  🚧 currently | 🍻 done working on:
-- 🚧 [Smart Contract Engineer Challenges](https://www.smartcontract.engineer/challenges): 
-    - Currently on the top 100 leaderboard
 - 🚧 [RareSkills Gas Puzzles](https://github.com/yeahokyok/gas-puzzles)
-    - Some contract require low level to optimize so I need to learn Yul first 🥲  
 - 🚧 [Ethernaut Challenges](https://github.com/yeahokyok/ethernaut-challenges) (23/28)
+- 🚧 [Smart Contract Engineer Challenges](https://www.smartcontract.engineer/challenges)
 
----
-### Blockchains
-
-[![Ethereum][ethereum-shield]][ethereum]
+<!-- #### 🍻 What i have done: -->
 
 ### Languages
 
+[![Python][python-shield]][python]
 [![Solidity][solidity-shield]][solidity]
 [![JavaScript][javascript-shield]][javascript]
-[![Python][python-shield]][python]
+
 
 ### Frameworks & Libraries
 
+[![Django][django-shield]][django]
 [![React][react-shield]][react]
 [![Hardhat][hardhat-shield]][hardhat]
-[![Django][django-shield]][django]
 
+
+### Blockchains
+
+[![Ethereum][ethereum-shield]][ethereum]
 ---
 ### 📫 How to reach me:
 
