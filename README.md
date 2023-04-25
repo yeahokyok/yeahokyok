@@ -1,4 +1,7 @@
-<!-- #### Hi there 👋
+ #### Hi there 👋
+
+I'm a cat lover, a web developer, and a blockchain enthusiast.
+<!-- 
 I'm a self-taught web3 developer constantly learning and building on the blockchain. Let's create some decentralized magic together.🧙‍♂️
 --- -->
 
