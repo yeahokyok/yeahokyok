@@ -22,6 +22,7 @@ I'm a self-taught web3 developer constantly learning and building on the blockch
 [![Python][python-shield]][python]
 [![Solidity][solidity-shield]][solidity]
 [![JavaScript][javascript-shield]][javascript]
+[![Solidity][golang-shield]][golang]
 
 
 ### Frameworks & Libraries
@@ -45,6 +46,8 @@ I'm a self-taught web3 developer constantly learning and building on the blockch
 [ethereum]: https://ethereum.org/en/
 [solidity-shield]: https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black
 [solidity]: https://docs.soliditylang.org/en/latest/
+[golang-shield]: https://img.shields.io/badge/golang-blue?style=for-the-badge&logo=go&logoColor=white
+[golang]: https://go.dev/
 [javascript-shield]: https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
 [javascript]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [python-shield]: https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
