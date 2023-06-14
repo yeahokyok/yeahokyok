@@ -29,7 +29,7 @@ I'm a self-taught web3 developer constantly learning and building on the blockch
 
 [![Django][django-shield]][django]
 [![React][react-shield]][react]
-[![Hardhat][hardhat-shield]][hardhat]
+<!-- [![Hardhat][hardhat-shield]][hardhat] -->
 
 
 ### Blockchains
