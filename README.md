@@ -38,7 +38,9 @@ I'm a self-taught web3 developer constantly learning and building on the blockch
 ---
 ### 📫 How to reach me:
 
-[![Line][line-shield]][line]
+<!-- [![Line][line-shield]][line]-->
+
+[![Linkedin][linkedin-shield]][linkedin]
 [![Twitter][twitter-shield]][twitter]
 ![yeahokyok.eth](https://img.shields.io/badge/yeahokyok.eth-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
 
@@ -60,6 +62,8 @@ I'm a self-taught web3 developer constantly learning and building on the blockch
 [django]: https://www.djangoproject.com/
 [line-shield]: https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white
 [line]: https://line.me/ti/p/dHoEE7CDAP
+[linkedin-shield]: https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin]: https://www.linkedin.com/in/teerapat-cintornvich
 [twitter-shield]: https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
 [twitter]: https://twitter.com/yeahokyok
 [ethereum-address]:yeahokyok.eth
